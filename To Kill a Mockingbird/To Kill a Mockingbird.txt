@@ -1,0 +1,39 @@
+Title: To Kill a Mockingbird
+Author: Harper Lee
+Genre: Southern Gothic, Bildungsroman
+Publication Date: 1960
+Themes:
+Racial Injustice
+Moral Growth
+Compassion and Empathy
+Loss of Innocence
+Good vs. Evil
+Setting:
+Time: 1930s
+Place: Maycomb, Alabama
+Main Characters:
+Scout Finch
+Atticus Finch
+Jem Finch
+Tom Robinson
+Boo Radley
+Calpurnia
+Mayella Ewell
+Plot Summary: (Provide a brief summary)
+Scout Finch grows up in the racially charged atmosphere of Maycomb, Alabama, during the Great Depression. Her father, Atticus Finch, is a lawyer who defends a black man, Tom Robinson, falsely accused of raping a white woman, Mayella Ewell. The trial and events surrounding it expose Scout and her brother, Jem, to the complexities of morality and injustice.
+Key Quotes:
+"You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it."
+"The one thing that doesn't abide by majority rule is a person's conscience."
+Critical Reception: Widely acclaimed for its poignant exploration of race and morality in America; won the Pulitzer Prize for Fiction in 1961.
+Literary Devices:
+Symbolism (e.g., the mockingbird)
+Foreshadowing
+Irony
+Flashbacks
+Adaptations: 1962 film directed by Robert Mulligan, starring Gregory Peck as Atticus Finch.
+Relevant Topics for Machine Learning:
+Narrative structure
+Character development
+Social commentary
+Dialogue
+Setting description
